@@ -100,12 +100,14 @@ a:active {
 
 .imgGaleria {
     display: grid;
-    grid-template-columns: 25% 25% 30%;
-    justify-content: space-around;
+    grid-template-columns: 30% 30% 30%;
+    justify-content: space-between;
     text-align: center;
     font-family: 'Dancing Script', cursive;
-    font-weight: 900;
     font-size: 50px;
+    font-weight: 900;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
     
